@@ -1,6 +1,6 @@
 [{
     "id":1 ,
     "name": "AVX",
-    "weeks":[{"name":"Week1","completed":"false","id":11}]
+    "weeks":[{"name":"Week1","completed":0,"id":11}]
 
 }]
